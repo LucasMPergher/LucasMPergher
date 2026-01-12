@@ -31,4 +31,4 @@ I'm Pergher Lucas Maurice, a student of Computer Systems Analysis at the Faculty
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="https://www.instagram.com/lucas_pergher1" target="_blank">Lucas Pergher</a> Email: lucasperghersier@gmail.com</p>
+<p align="center">🔗 Instagram: <a href="https://www.instagram.com/lucas_pergher1" target="_blank">Lucas Pergher</a> Email: lucasperghersier@gmail.com</p>
