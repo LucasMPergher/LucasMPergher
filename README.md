@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hola, soy Lucas Pergher</h1>
 
 <p align="center">
-  💻 Estudiante de Análisis de Sistemas <br>
+  💻 Estudiante de Análisis de Sistemas de Computacion <br>
   🎓 Facultad de Ciencias Exactas – Universidad Nacional de Misiones (UNaM) <br>
 </p>
 
